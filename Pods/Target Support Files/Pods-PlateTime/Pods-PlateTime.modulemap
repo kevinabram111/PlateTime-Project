@@ -1,0 +1,6 @@
+framework module Pods_PlateTime {
+  umbrella header "Pods-PlateTime-umbrella.h"
+
+  export *
+  module * { export * }
+}
